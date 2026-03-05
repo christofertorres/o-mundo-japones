@@ -10,7 +10,7 @@ O projeto implementa troca dinâmica de resolução de imagens conforme o usuár
 
 ## 🚀 Demonstração
 
-🔗 Acesse no GitHub Pages: *[Link](Link)*
+🔗 Acesse no Vercel: *[Link](https://o-mundo-japones.vercel.app/)*
 
 ## 🛠️ Tecnologias utilizadas
 
